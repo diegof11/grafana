@@ -1,14 +1,14 @@
 [
-  {​​​​​​​
-    "key": "MBH",
+  {
+    "key": "BH",
+    "name": "BH",
     "latitude": -19.97657,
-    "longitude": -43.97485,
-    "name": "Macrotec BH"
-  }​​​​​​​,
-  {​​​​​​​
-    "key": "MCD",
+    "longitude": -43.97485    
+  },
+  {
+    "key": "CD",
+    "name": "CD",
     "latitude": -19.97278,
-    "longitude": -44.06203,
-    "name": "Macrotec CD"
-  }​​​​​​​
+    "longitude": -44.06203
+  }
 ]
