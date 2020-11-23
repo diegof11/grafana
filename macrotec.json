@@ -10,5 +10,11 @@
     "name": "Centro Distribuição",
     "latitude": -19.97278,
     "longitude": -44.06203
+  },
+  {
+    "key": "ES",
+    "name": "Vitória",
+    "latitude": -20.269927,
+    "longitude": -40.29669
   }
 ]
