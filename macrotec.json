@@ -1,13 +1,13 @@
 [
   {
     "key": "BH",
-    "name": "BH",
+    "name": "Belo Horizonte",
     "latitude": -19.97657,
     "longitude": -43.97485    
   },
   {
     "key": "CD",
-    "name": "CD",
+    "name": "Centro Distribuição",
     "latitude": -19.97278,
     "longitude": -44.06203
   }
